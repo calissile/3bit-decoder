@@ -1,4 +1,3 @@
-
 module testdec ( dec, selbar, a );
   input [0:2] dec;
   output [0:7] a;
